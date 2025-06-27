@@ -1,4 +1,5 @@
 Personal Finance Manager:
+
 A simple console-based Python application to manage your personal financial transactions.
 It helps you track incomes and expenses, view transaction history, and calculate your balance.
 
