@@ -15,5 +15,5 @@ Features:
 
 *Simple and user-friendly console interface
 
-*Data stored in memory (does not persist between runs)
+*Data stored in memory 
 
